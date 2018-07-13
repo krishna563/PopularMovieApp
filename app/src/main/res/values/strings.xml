@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoviesList</string>
+    <string name="facebook_app_id">436001483529622</string>
+    <string name="ComingSoon">Most Popular</string>
+    <string name="popular">Highest Rated</string>
+    <string name="rate">Rate</string>
+    <string name="SubMenu1">SubMenu No. 1</string>
+    <string name="SubMenu2">SubMenu No. 2</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_synopsis">Synopsis :</string>
+    <string name="txt_duration">Running Duration :</string>
+    <string name="txt_cast">Cast :</string>
+    <string name="descrption_synopsis">All the power of ConstraintLayout is available directly from the Layout Editor
+        isual tools, because the layout API and the Layout Editor were specially built for each other</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="button">Button</string>
+    <string name="trailer">Trailer</string>
+    <string name="share">SHARE</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="review">Review</string>
+</resources>
